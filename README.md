@@ -32,6 +32,7 @@ This project was developed during the SmartBridge Internship as part of a practi
 
 #🛠️ Tech Stack
 Technology	Description
+
 MongoDB	NoSQL Database
 Express.js	Backend API Framework
 React.js	Frontend Library
