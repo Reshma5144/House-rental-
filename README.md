@@ -23,6 +23,7 @@ This project was developed during the SmartBridge Internship as part of a practi
 
 
 #✨ Key Features
+
 🔐 User Authentication – Renter, Owner, and Admin roles
 🏠 Property Listings – Add, update, delete, and view properties
 🔍 Advanced Search – Filter by location, price, and type
