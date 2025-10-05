@@ -11,15 +11,16 @@ This project was developed during the SmartBridge Internship as part of a practi
 #Team Information
 🆔 Team ID: LTVIP2025TMID55971
 👥 Team Size: 4 Members
+
 🔹 Team Members:
 💼 Macharla Reshma Sri — Team Leader
-🔗 LinkedIn Profile
+
 💼 Appanabhotla Janani — Team Member
-🔗 LinkedIn Profile
+
 💼 Gunturu Lakshmi Gayathri — Team Member
-🔗 LinkedIn Profile
+
 💼 Gudivaka Srija — Team Member
-🔗 LinkedIn Profile
+
 
 #✨ Key Features
 🔐 User Authentication – Renter, Owner, and Admin roles
